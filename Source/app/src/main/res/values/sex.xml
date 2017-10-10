@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array
+        name = "sex"
+    >
+        <item>남</item>
+        <item>여</item>
+
+
+    </string-array>
+
+    <string-array
+        name = "address"
+        >
+        <item>원평동</item>
+        <item>지산동</item>
+        <item>도량동</item>
+        <item>원평동</item>
+        <item>형곡동</item>
+        <item>신평동</item>
+        <item>비산동</item>
+        <item>공단동</item>
+        <item>인동</item>
+        <item>양포동</item>
+        <item>상모동</item>
+    </string-array>
+
+
+
+
+</resources>
